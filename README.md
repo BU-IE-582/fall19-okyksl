@@ -1,4 +1,6 @@
-Oğuz Kaan Yüksel's IE 582 - 2019 Fall Repository
+### [Oğuz Kaan Yüksel's IE 582 - 2019 Fall Repository](https://github.com/BU-IE-582/fall19-okyksl)
+
+Access website view from [here](https://bu-ie-582.github.io/fall19-okyksl/).
 
 #### Homework #1
 
