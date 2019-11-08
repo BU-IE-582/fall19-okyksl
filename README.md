@@ -7,7 +7,7 @@ Access website view from [here](https://bu-ie-582.github.io/fall19-okyksl/).
 Data management & visualization with pandas, numpy and matplotlib.
 
 * [Description](IE_582_Homework_1.pdf)
-* [Notebook (Repository)](blob/master/IE_582_Homework_1.ipynb)
+* [Notebook (Repository)](https://github.com/BU-IE-582/fall19-okyksl/blob/master/IE_582_Homework_1.ipynb)
 * [Notebook (Colab)](https://colab.research.google.com/drive/1GFdL4rPpQf0ENBqWJTEAwxvi_SpaNAKl)
 
 
@@ -16,5 +16,5 @@ Data management & visualization with pandas, numpy and matplotlib.
 Dimensionality reduction using PDA & MDS with scikit-learn.
 
 * [Description](IE_582_Homework_2.pdf)
-* [Notebook (Repository)](blob/master/IE_582_Homework_2.ipynb)
+* [Notebook (Repository)](https://github.com/BU-IE-582/fall19-okyksl/blob/master/IE_582_Homework_2.ipynb)
 * [Notebook (Colab)](https://colab.research.google.com/drive/16lD4KcqgsuZqNTmBzwe5VKarumEI90d_)
