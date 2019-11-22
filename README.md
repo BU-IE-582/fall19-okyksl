@@ -18,3 +18,11 @@ Dimensionality reduction using PDA & MDS with scikit-learn.
 * [Description](IE_582_Homework_2.pdf)
 * [Notebook (Repository)](https://github.com/BU-IE-582/fall19-okyksl/blob/master/IE_582_Homework_2.ipynb)
 * [Notebook (Colab)](https://colab.research.google.com/drive/16lD4KcqgsuZqNTmBzwe5VKarumEI90d_)
+
+#### Homework #3
+
+Regularized regressions on time-series and model selection utilizing cross-validation with scikit-learn.
+
+* [Description](IE_582_Homework_3.pdf)
+* [Notebook (Repository)](https://github.com/BU-IE-582/fall19-okyksl/blob/master/IE_582_Homework_3.ipynb)
+* [Notebook (Colab)](https://colab.research.google.com/drive/1s7z-S_1rHvoERaTJkpmWkqvjy78a7pwv)
