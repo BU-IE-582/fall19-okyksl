@@ -26,3 +26,12 @@ Regularized regressions on time-series and model selection utilizing cross-valid
 * [Description](IE_582_Homework_3.pdf)
 * [Notebook (Repository)](https://github.com/BU-IE-582/fall19-okyksl/blob/master/IE_582_Homework_3.ipynb)
 * [Notebook (Colab)](https://colab.research.google.com/drive/1s7z-S_1rHvoERaTJkpmWkqvjy78a7pwv)
+
+
+#### Homework #4
+
+Compare penalized regression, decision trees, random forest and gradient boosted trees with cross validation and grid search using sciki-learn.
+
+* [Description](IE_582_Homework_4.pdf)
+* [Notebook (Repository)](https://github.com/BU-IE-582/fall19-okyksl/blob/master/IE_582_Homework_4.ipynb)
+* [Notebook (Colab)](https://colab.research.google.com/drive/1kRT3rxWR5PViMHjGDYNnYBtRNa09lOgM)
