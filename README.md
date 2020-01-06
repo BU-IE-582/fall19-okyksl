@@ -35,3 +35,12 @@ Compare penalized regression, decision trees, random forest and gradient boosted
 * [Description](IE_582_Homework_4.pdf)
 * [Notebook (Repository)](https://github.com/BU-IE-582/fall19-okyksl/blob/master/IE_582_Homework_4.ipynb)
 * [Notebook (Colab)](https://colab.research.google.com/drive/1kRT3rxWR5PViMHjGDYNnYBtRNa09lOgM)
+
+#### Final Project
+
+Predict outcomes of Premier League matches using tree-based boosting methods.
+
+* [Description](IE_582_Final_Project.pdf)
+* [Report](https://github.com/BU-IE-582/fall19-okyksl/blob/master/IE_582_Final_Report.ipynb)
+* [Notebook (Repository)](https://github.com/BU-IE-582/fall19-okyksl/blob/master/IE_582_Final_Project.ipynb)
+* [Notebook (Colab)](https://colab.research.google.com/drive/1OPcyoKfUxyCPPEtJWYKCKfO5dv8KBK2v)
